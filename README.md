@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm João Victor, and I'm a Software Developer at MOBIT and I've been working in tech since 2017. I'm from Brazil, but whith a dream to leave and meet another countries!
+I'm João Victor, and I'm a Software Developer at MOBIT and I've been working in tech since 2017. I'm from Brazil, but whith a dream to leave and meet another countries! Currently learning quarkus, microservices and meeting other frontend frameworks :)
 
 ## ⚡ Technologies
 
