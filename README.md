@@ -1,10 +1,10 @@
-### Hi there 👋
+## Olá 👋
 
-I'm João Victor, and i'm a Software Developer at PicPay and i've been working in tech since 2017. I'm from Brazil, but whith a dream to leave and meet another countries! Currently learning quarkus, microservices and meeting other frontend frameworks :)
+Me chamo João Victor e sou um Engenheiro de Software atuando exclusivamente com backend na empresa PicPay. Moro no Brasil mas tenho o sonho de conhecer e morar em outros paises. Atualmente estou me aprofundando em alguns temas como Design Patterns, Clean Arch, Domain Driven Development e Test Driven Development.
 
-## ⚡ Technologies
+## ⚡ Tecnologias
 
-These are some of the technologies and tools that I work with:
+Algumas tecnologias que uso ou já usei no ambiente de trabalho.
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
