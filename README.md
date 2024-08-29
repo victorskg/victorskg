@@ -1,7 +1,3 @@
-## Olá 👋
-
-Me chamo João Victor e sou um Engenheiro de Software atuando exclusivamente com backend na empresa Mercado Livre. Moro no Brasil mas tenho o sonho de conhecer e morar em outros paises. Atualmente estou me aprofundando em alguns temas como Design Patterns, Clean Arch, Domain Driven Development e Test Driven Development.
-
 ## ⚡ Tecnologias
 
 Algumas tecnologias que uso ou já usei no ambiente de trabalho.
